@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LINQ
+namespace Quete_LINQ_Form
 {
     class Animal
     {

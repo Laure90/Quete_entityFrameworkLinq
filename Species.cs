@@ -2,13 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LINQ
+namespace Quete_LINQ_Form
 {
     class Species
     {
         public Guid SpeciesID { get; set; }
         public String Name { get; set; }
         public int Population { get; set; }
-        public Animal Animal { get; set; }
+        public List<Animal> Animal { get; set; }
     }
 }

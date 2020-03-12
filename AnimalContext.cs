@@ -1,12 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-//using System.Windows.Forms;
-using System.Linq;
-using System.Data.SqlClient;
-using System.Data;
 using System;
 using System.Collections.Generic;
+using System.Text;
+using Microsoft.EntityFrameworkCore;
 
-namespace LINQ
+namespace Quete_LINQ_Form
 {
     class AnimalContext : DbContext
     {
